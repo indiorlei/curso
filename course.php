@@ -13,7 +13,7 @@ function create_course() {
 	register_post_type( 'course',
 		array(
 			'labels' => array(
-				'name' => 'courses',
+				'name' => 'Cursos',
 				'singular_name' => 'Curso',
 				'add_new' => 'Adicionar Novo',
 				'add_new_item' => 'Adicionar Novo Curso',
