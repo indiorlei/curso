@@ -10,7 +10,7 @@ Um plugin que irá criar um tipo de pós personalizado exibindo cursos oferecidos 
 
 == Instalação ==
 Carregar o plugin do Curso para o seu blog , ativá-la.
-1, 2: Você é feito!
+1, 2: Está feito!
 
 === Screenshots ===
 1. Adicionar novo editor
